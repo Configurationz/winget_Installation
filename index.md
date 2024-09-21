@@ -29,7 +29,7 @@ winget --version
 
 Additionally, try the following steps if you're unable to download/install any available software from Microsoft Store
 
-* Go to Microsoft Store and copy the link of the app you want to install from [Microsoft | Store](https://apps.microsoft.com/store/apps)
+* Go to Microsoft Store and copy the link of the app you want to install from [Microsoft Store](https://apps.microsoft.com/store/apps)
 
 * Copy the link of the app and paste in this website "[Online link generator for Microsoft Store](https://store.rg-adguard.net)" and search in `RP` mode 
 
