@@ -12,7 +12,7 @@ Invoke-WebRequest -Uri https://github.com/microsoft/winget-cli/releases/download
 
 * This will download the `msixbundle` file to your `~\Downloads` folder
 
-* The latest version at the moment is `v1.8.1911`. The current, latest and other versions can be found on GitHub[^1]
+* The latest version at the moment is `v1.8.1911`. The current, latest and other versions can be found on GitHub
 
 * Ensure to download the latest bundle from here [^1]
 
@@ -77,4 +77,4 @@ Add-AppxPackage -Path "<PATH of the file>".appx
 * [microsoft / winget-cli](https://github.com/microsoft/winget-cli?tab=readme-ov-file#installing-the-client)
 
 
-> [^1]: _**[Windows Package Manager 1.9.2411-preview Pre-release](https://github.com/microsoft/winget-cli/releases/){:target="_blank"}**_
+> [^1]. _**[Windows Package Manager 1.9.2411-preview Pre-release](https://github.com/microsoft/winget-cli/releases/){:target="_blank"}**_
