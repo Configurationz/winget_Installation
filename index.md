@@ -77,4 +77,4 @@ Add-AppxPackage -Path "<PATH of the file>".appx
 * [microsoft / winget-cli](https://github.com/microsoft/winget-cli?tab=readme-ov-file#installing-the-client)
 
 
-> [^1]. _**[Windows Package Manager 1.9.2411-preview Pre-release](https://github.com/microsoft/winget-cli/releases/){:target="_blank"}**_
+> [^1]: _**[Windows Package Manager 1.9.2411-preview Pre-release](https://github.com/microsoft/winget-cli/releases/){:target="_blank"}**_
